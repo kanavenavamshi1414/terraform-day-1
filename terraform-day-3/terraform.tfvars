@@ -1,0 +1,8 @@
+vpc_cidr_block = "10.0.0.0/16"
+vpc_tag = "dev-vpc"
+route_table_tag = "dev-public-rt"
+internet_gateway_tag = "dev-igw"
+security_group_name = "dev-sg"
+subnet_cidr_block = "10.0.1.0/24"
+subnet_tag = "dev-frontend"
+aws_region = "eu-north-1"
